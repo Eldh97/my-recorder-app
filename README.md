@@ -1,4 +1,4 @@
-# my-recorder-app
+# iOs Nanodegree project #1: my-recorder-app
 An IOS app that let's you record your voice and play sound effects on it.
 
 ## Screenshots
